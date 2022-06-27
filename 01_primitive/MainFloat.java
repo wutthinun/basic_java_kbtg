@@ -1,4 +1,4 @@
-public class FloatingPoint {
+public class MainFloat {
 	public static void main(String[] args) {
 		float standard = 583.45f; // (standard)
 		float scientific = 5.8345e2f; // (scientific)

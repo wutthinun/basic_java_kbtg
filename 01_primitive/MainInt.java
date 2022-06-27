@@ -1,4 +1,4 @@
-public class Int {
+public class MainInt {
 	public static void main(String[] args) {
 		int b10 = 101; // base 10
 		int _b16 = 01426; // base 16
