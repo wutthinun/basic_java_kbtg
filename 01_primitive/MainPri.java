@@ -1,5 +1,8 @@
 public class MainPri {
 	public static void main(String[] args) {
+		// byte = 1;
+		// short = 1;
+
 		int b10 = 101; // base 10
 		int _b16 = 01426; // base 16
 		int $b8 = 0x123; // base 8
