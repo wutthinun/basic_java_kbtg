@@ -24,5 +24,7 @@ public class Main {
 		System.out.println(c.get(Calendar.DAY_OF_MONTH));
 		System.out.println(c.get(Calendar.MONTH));
 		System.out.println(c.get(Calendar.DAY_OF_MONTH));
+
+		System.out.printf("%1$s %2$tB %2$td, %2$tY", "Value :", d);
 	}
 }
